@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32231'
     url: http://www.gutenberg.org/2009/agents/32231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26774#Alcohol--A-Dangerous-and-Unnecessary-Medicine-How-and-WhyWhat-Medical-Writers-Say
 gutenberg_issued: '2008-10-04'
 gutenberg_type: Text
 identifiers:
